@@ -1,0 +1,16 @@
+{
+  "name": "merle-cake",
+  "version": "0.0.1",
+  "main": "cake.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel ./index.html --no-cache"
+  },
+  "author": "Luan Muniz <luan@luanmuniz.com.br>",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "parcel": "2.12.0",
+    "three": "0.169.0"
+  }
+}
